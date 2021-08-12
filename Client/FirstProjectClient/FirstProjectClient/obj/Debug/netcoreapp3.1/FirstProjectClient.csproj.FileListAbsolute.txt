@@ -1,0 +1,12 @@
+D:\anything coding related\Visual Studio Code folders\C#\Networking\Test\FirstProject\Client\FirstProjectClient\FirstProjectClient\bin\Debug\netcoreapp3.1\FirstProjectClient.exe
+D:\anything coding related\Visual Studio Code folders\C#\Networking\Test\FirstProject\Client\FirstProjectClient\FirstProjectClient\bin\Debug\netcoreapp3.1\FirstProjectClient.deps.json
+D:\anything coding related\Visual Studio Code folders\C#\Networking\Test\FirstProject\Client\FirstProjectClient\FirstProjectClient\bin\Debug\netcoreapp3.1\FirstProjectClient.runtimeconfig.json
+D:\anything coding related\Visual Studio Code folders\C#\Networking\Test\FirstProject\Client\FirstProjectClient\FirstProjectClient\bin\Debug\netcoreapp3.1\FirstProjectClient.runtimeconfig.dev.json
+D:\anything coding related\Visual Studio Code folders\C#\Networking\Test\FirstProject\Client\FirstProjectClient\FirstProjectClient\bin\Debug\netcoreapp3.1\FirstProjectClient.dll
+D:\anything coding related\Visual Studio Code folders\C#\Networking\Test\FirstProject\Client\FirstProjectClient\FirstProjectClient\bin\Debug\netcoreapp3.1\FirstProjectClient.pdb
+D:\anything coding related\Visual Studio Code folders\C#\Networking\Test\FirstProject\Client\FirstProjectClient\FirstProjectClient\obj\Debug\netcoreapp3.1\FirstProjectClient.AssemblyInfoInputs.cache
+D:\anything coding related\Visual Studio Code folders\C#\Networking\Test\FirstProject\Client\FirstProjectClient\FirstProjectClient\obj\Debug\netcoreapp3.1\FirstProjectClient.AssemblyInfo.cs
+D:\anything coding related\Visual Studio Code folders\C#\Networking\Test\FirstProject\Client\FirstProjectClient\FirstProjectClient\obj\Debug\netcoreapp3.1\FirstProjectClient.csproj.CoreCompileInputs.cache
+D:\anything coding related\Visual Studio Code folders\C#\Networking\Test\FirstProject\Client\FirstProjectClient\FirstProjectClient\obj\Debug\netcoreapp3.1\FirstProjectClient.dll
+D:\anything coding related\Visual Studio Code folders\C#\Networking\Test\FirstProject\Client\FirstProjectClient\FirstProjectClient\obj\Debug\netcoreapp3.1\FirstProjectClient.pdb
+D:\anything coding related\Visual Studio Code folders\C#\Networking\Test\FirstProject\Client\FirstProjectClient\FirstProjectClient\obj\Debug\netcoreapp3.1\FirstProjectClient.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\anything coding related\Visual Studio Code folders\C#\Networking\Test\FirstProject\Server\FirstProjectServer\FirstProjectServer\bin\Debug\netcoreapp3.1\FirstProjectServer.exe
+D:\anything coding related\Visual Studio Code folders\C#\Networking\Test\FirstProject\Server\FirstProjectServer\FirstProjectServer\bin\Debug\netcoreapp3.1\FirstProjectServer.deps.json
+D:\anything coding related\Visual Studio Code folders\C#\Networking\Test\FirstProject\Server\FirstProjectServer\FirstProjectServer\bin\Debug\netcoreapp3.1\FirstProjectServer.runtimeconfig.json
+D:\anything coding related\Visual Studio Code folders\C#\Networking\Test\FirstProject\Server\FirstProjectServer\FirstProjectServer\bin\Debug\netcoreapp3.1\FirstProjectServer.runtimeconfig.dev.json
+D:\anything coding related\Visual Studio Code folders\C#\Networking\Test\FirstProject\Server\FirstProjectServer\FirstProjectServer\bin\Debug\netcoreapp3.1\FirstProjectServer.dll
+D:\anything coding related\Visual Studio Code folders\C#\Networking\Test\FirstProject\Server\FirstProjectServer\FirstProjectServer\bin\Debug\netcoreapp3.1\FirstProjectServer.pdb
+D:\anything coding related\Visual Studio Code folders\C#\Networking\Test\FirstProject\Server\FirstProjectServer\FirstProjectServer\obj\Debug\netcoreapp3.1\FirstProjectServer.csproj.AssemblyReference.cache
+D:\anything coding related\Visual Studio Code folders\C#\Networking\Test\FirstProject\Server\FirstProjectServer\FirstProjectServer\obj\Debug\netcoreapp3.1\FirstProjectServer.AssemblyInfoInputs.cache
+D:\anything coding related\Visual Studio Code folders\C#\Networking\Test\FirstProject\Server\FirstProjectServer\FirstProjectServer\obj\Debug\netcoreapp3.1\FirstProjectServer.AssemblyInfo.cs
+D:\anything coding related\Visual Studio Code folders\C#\Networking\Test\FirstProject\Server\FirstProjectServer\FirstProjectServer\obj\Debug\netcoreapp3.1\FirstProjectServer.csproj.CoreCompileInputs.cache
+D:\anything coding related\Visual Studio Code folders\C#\Networking\Test\FirstProject\Server\FirstProjectServer\FirstProjectServer\obj\Debug\netcoreapp3.1\FirstProjectServer.dll
+D:\anything coding related\Visual Studio Code folders\C#\Networking\Test\FirstProject\Server\FirstProjectServer\FirstProjectServer\obj\Debug\netcoreapp3.1\FirstProjectServer.pdb
+D:\anything coding related\Visual Studio Code folders\C#\Networking\Test\FirstProject\Server\FirstProjectServer\FirstProjectServer\obj\Debug\netcoreapp3.1\FirstProjectServer.genruntimeconfig.cache
